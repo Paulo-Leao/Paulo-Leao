@@ -1,5 +1,5 @@
 - 👋 Hi, eu sou @Paulo-Leao
-- 👀 estudando javascript (1º linguagem)
+- 👀 estudando 
 - 💞️ nunca vai estar perfeito, mas sempre vou estar tentando.
 
 <!---
